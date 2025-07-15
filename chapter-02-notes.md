@@ -2,7 +2,7 @@
 
 ## What I Built
 - Deployed Faucet smart contract to Sepolia testnet
-- Contract Address: [your actual address]
+- Contract Address: 0x0320b1331f72834F5cD30abeC9532fB479FAee98
 - Successfully withdrew ETH from contract
 
 ## Key Learnings
